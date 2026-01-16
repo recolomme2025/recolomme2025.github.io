@@ -1,3 +1,3 @@
 # Hébergement des images pour le umap.
 
-> Pour ce faire, il vous faudra ajouter vos images dans le dossier "img".
+> Ouvrir le dossier "img" en double cliquant dessus
