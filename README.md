@@ -1,3 +1,3 @@
-# Site web d'hebergement des images pour la reconnaissances des plantes du lycée.
+# Hébergement des images pour le umap.
 
-Pour ce faire, il vous faudra ajouter vos images dans le dossier "img".
+> Pour ce faire, il vous faudra ajouter vos images dans le dossier "img".
